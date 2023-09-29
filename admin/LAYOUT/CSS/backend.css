@@ -1,0 +1,32 @@
+*{
+	padding-top: 30px;
+}
+.zzo{
+
+	font-size: 50px;
+}
+.zzo2 {
+
+	color: darkred; margin: 0px 20px;
+	padding: 15px 50px;
+}
+.login {
+width: 300px;
+	margin: 100px auto;
+
+}
+
+.login input {
+	margin-bottom: 10px;
+}
+.login .btn {
+
+	background-color: black;
+} 
+.form-control{
+position: relative;
+
+}
+
+
+
